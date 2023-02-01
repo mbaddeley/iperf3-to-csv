@@ -1,0 +1,6 @@
+distance,velocity,movement,interval,transfer,bitrate,retr,cwnd
+200,20,random,1.00,6.36,54.7,0,2.06
+200,20,random,2.00,6.32,54.3,0,2.06
+200,20,random,3.00,6.15,52.9,0,2.06
+200,20,random,4.00,6.33,54.3,0,2.06
+200,20,random,5.00,6.28,53.9,0,2.06
